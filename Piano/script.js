@@ -26,7 +26,7 @@ function btnFa(){
 
 function btnSol(){
     var sound = new Audio();
-    sound.src = "./musica/Sol.wav";
+    sound.src = "./musica/SOL.wav";
     sound.play();
 }
 
